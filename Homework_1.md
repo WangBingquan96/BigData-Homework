@@ -1,4 +1,6 @@
 # Homework 1
+## Wang Bingquan
+## 1801212932
 # Use tick data of stocks to mining technical factor for guiding stocks trading within a day
 ## 1. Introduction
 This topic want to use genetic programming method to mining technical factors based on the tick data of stocks. The tick data contains 
